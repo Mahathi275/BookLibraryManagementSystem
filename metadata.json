@@ -1,0 +1,6 @@
+{
+  "name": "Book Library Management System",
+  "description": "Full-stack library management system built with React, Express, and MongoDB/Mongoose for book cataloging, circulation status, search, and user authentication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

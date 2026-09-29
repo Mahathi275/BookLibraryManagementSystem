@@ -1,0 +1,114 @@
+{
+  "books": [
+    {
+      "_id": "b_1790701558322_0",
+      "title": "Architectural Patterns in Modern Systems",
+      "author": "Martin Fowler",
+      "category": "Architecture",
+      "status": "Available",
+      "isbn": "978-0134757599",
+      "publisher": "Addison-Wesley Professional",
+      "publishedYear": 2023,
+      "description": "A comprehensive guide to enterprise application patterns, decoupled microservices, and resilient distributed data architecture.",
+      "coverImage": "/src/assets/images/book_cover_architecture_1790701250913.jpg",
+      "createdAt": "2026-09-29T17:05:58.322Z",
+      "updatedAt": "2026-09-29T17:05:58.322Z"
+    },
+    {
+      "_id": "b_1790701558322_1",
+      "title": "The Master Algorithm",
+      "author": "Pedro Domingos",
+      "category": "Artificial Intelligence",
+      "status": "Issued",
+      "borrowerName": "Sarah Jenkins (ID: MEM-4091)",
+      "issuedDate": "2026-03-12T10:30:00.000Z",
+      "dueDate": "2026-04-12T10:30:00.000Z",
+      "isbn": "978-0465065707",
+      "publisher": "Basic Books",
+      "publishedYear": 2021,
+      "description": "How the quest for the ultimate learning machine will remake our world, unifying machine learning and statistical deduction.",
+      "coverImage": "/src/assets/images/book_cover_algorithms_1790701262759.jpg",
+      "createdAt": "2026-09-29T17:05:58.322Z",
+      "updatedAt": "2026-09-29T17:05:58.322Z"
+    },
+    {
+      "_id": "b_1790701558322_2",
+      "title": "Clean Code: A Handbook of Agile Software Craftsmanship",
+      "author": "Robert C. Martin",
+      "category": "Software Engineering",
+      "status": "Available",
+      "isbn": "978-0132350884",
+      "publisher": "Prentice Hall",
+      "publishedYear": 2020,
+      "description": "Even bad code can function. But if code isn’t clean, it can bring a development organization to its knees.",
+      "coverImage": "",
+      "createdAt": "2026-09-29T17:05:58.322Z",
+      "updatedAt": "2026-09-29T17:05:58.322Z"
+    },
+    {
+      "_id": "b_1790701558322_3",
+      "title": "Database System Concepts",
+      "author": "Abraham Silberschatz, Henry F. Korth",
+      "category": "Databases",
+      "status": "Available",
+      "isbn": "978-0078022159",
+      "publisher": "McGraw-Hill",
+      "publishedYear": 2022,
+      "description": "Fundamental concepts of database management, relational algebra, SQL, indexing, and NoSQL transaction guarantees.",
+      "coverImage": "",
+      "createdAt": "2026-09-29T17:05:58.322Z",
+      "updatedAt": "2026-09-29T17:05:58.322Z"
+    },
+    {
+      "_id": "b_1790701558322_4",
+      "title": "The Design of Everyday Things",
+      "author": "Don Norman",
+      "category": "Design",
+      "status": "Issued",
+      "borrowerName": "Alex Rivera (ID: MEM-1084)",
+      "issuedDate": "2026-03-20T14:15:00.000Z",
+      "dueDate": "2026-04-20T14:15:00.000Z",
+      "isbn": "978-0465050659",
+      "publisher": "Basic Books",
+      "publishedYear": 2019,
+      "description": "The definitive guide to human-centered design, cognitive ergonomics, and usable physical/digital interfaces.",
+      "coverImage": "",
+      "createdAt": "2026-09-29T17:05:58.322Z",
+      "updatedAt": "2026-09-29T17:05:58.322Z"
+    },
+    {
+      "_id": "b_1790701558322_5",
+      "title": "Designing Data-Intensive Applications",
+      "author": "Martin Kleppmann",
+      "category": "Architecture",
+      "status": "Available",
+      "isbn": "978-1449373320",
+      "publisher": "O'Reilly Media",
+      "publishedYear": 2024,
+      "description": "The big ideas behind reliable, scalable, and maintainable systems for batch and stream processing.",
+      "coverImage": "",
+      "createdAt": "2026-09-29T17:05:58.322Z",
+      "updatedAt": "2026-09-29T17:05:58.322Z"
+    }
+  ],
+  "users": [
+    {
+      "_id": "u_1790701558322_0",
+      "name": "Eleanor Vance",
+      "email": "librarian@citylibrary.org",
+      "password": "password123",
+      "role": "librarian",
+      "createdAt": "2026-01-01T00:00:00.000Z",
+      "updatedAt": "2026-09-29T17:05:58.322Z"
+    },
+    {
+      "_id": "u_1790701558322_1",
+      "name": "David Chen",
+      "email": "member@university.edu",
+      "password": "password123",
+      "role": "member",
+      "createdAt": "2026-02-15T00:00:00.000Z",
+      "updatedAt": "2026-09-29T17:05:58.322Z"
+    }
+  ]
+}
